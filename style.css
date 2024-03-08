@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px auto; 
+    padding:20px;
+    max-width: 800px;    
+}
+#info {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+.thongtin {
+    width: 50%;
+}
+.anh {
+    width: 50%;
+    text-align: right;
+}
+.canle{
+    text-align: center;
+}
+.anh img {
+    width: 150px;
+    height: 200px;
+}
+#muctieu {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+.center-text {
+    display: flex;
+    justify-content: center;
+}
+#hocvan {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#kinhnghiep {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#hoatdong {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#kynang {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#chungchi {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#sothich {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#lienhe {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+a{
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+}
+#lienhe .abc{
+    color: black;
+}
+hr .abc{
+    border: 1px solid black;
+}
+a:hover {
+    color: red;
+}
+h2 {
+    color: black;
+}
+
+b {
+    color: black;
+}
+p {
+    color: black;
+}
+#duan{
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+#info .thongtin{
+    padding: 20px;
+
+
+}
